@@ -20,3 +20,7 @@ img{
     width: 700px;
     float: center;
 }
+
+body {
+    background-color: rgb(211, 240, 190);
+}
